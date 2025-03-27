@@ -1,1 +1,1 @@
-# SuperClicker
+"Máquina Tragabebidas!"
